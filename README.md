@@ -19,4 +19,4 @@ This is a my First react mini project for learn about useState hooks and props s
  - building functons
 
 ## LIVE
-[Mini -1 ](/https://65304877efca9a03291cbe07--statuesque-gumption-17a3d4.netlify.app/)
+[Mini -1 ](https://65304877efca9a03291cbe07--statuesque-gumption-17a3d4.netlify.app/)
